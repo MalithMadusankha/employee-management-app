@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-### Clone app - git clone <github link..>
+### Clone app - git clone https://github.com/MalithMadusankha/employee-management-app.git
 
 ### `npm install`
 
